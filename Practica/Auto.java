@@ -4,5 +4,5 @@ public class Auto extends Vehiculo {
         super(patente, tarifaBase);
     }
 
-    // Hereda directamente calcularPeaje() sin cambiar nada
+    //Hereda directamente calcularPeaje() sin cambiar nada.
 }
